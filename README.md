@@ -1,1 +1,1 @@
-That is how Image to text with tesseract work
+That is how Image to text with tesseract works!
